@@ -1,0 +1,8 @@
+python train.py --config_file configs/OCC_ReID/vit_transreid_stride.yml MODEL.DEVICE_ID "('2')" SOLVER.BASE_LR 0.001 OUTPUT_DIR './logs_occ_reid/lr0001_b32_Process1_Model12_loss1' SOLVER.MAX_EPOCHS 20
+python train.py --config_file configs/OCC_ReID/vit_transreid_stride.yml MODEL.DEVICE_ID "('2')" SOLVER.BASE_LR 0.002 OUTPUT_DIR './logs_occ_reid/lr0002_b32_Process1_Model12_loss1' SOLVER.MAX_EPOCHS 20
+python train.py --config_file configs/OCC_ReID/vit_transreid_stride.yml MODEL.DEVICE_ID "('2')" SOLVER.BASE_LR 0.004 OUTPUT_DIR './logs_occ_reid/lr0004_b32_Process1_Model12_loss1' SOLVER.MAX_EPOCHS 15
+python train.py --config_file configs/OCC_ReID/vit_transreid_stride.yml MODEL.DEVICE_ID "('2')" SOLVER.BASE_LR 0.008 OUTPUT_DIR './logs_occ_reid/lr0008_b32_Process1_Model12_loss1' SOLVER.MAX_EPOCHS 15
+python train.py --config_file configs/OCC_ReID/vit_transreid_stride.yml MODEL.DEVICE_ID "('2')" SOLVER.BASE_LR 0.0001 OUTPUT_DIR './logs_occ_reid/lr00001_b32_Process1_Model12_loss1' SOLVER.MAX_EPOCHS 25
+python train.py --config_file configs/OCC_ReID/vit_transreid_stride.yml MODEL.DEVICE_ID "('2')" SOLVER.BASE_LR 0.0002 OUTPUT_DIR './logs_occ_reid/lr00002_b32_Process1_Model12_loss1' SOLVER.MAX_EPOCHS 25
+python train.py --config_file configs/OCC_ReID/vit_transreid_stride.yml MODEL.DEVICE_ID "('2')" SOLVER.BASE_LR 0.0004 OUTPUT_DIR './logs_occ_reid/lr00004_b32_Process1_Model12_loss1' SOLVER.MAX_EPOCHS 25
+python train.py --config_file configs/OCC_ReID/vit_transreid_stride.yml MODEL.DEVICE_ID "('2')" SOLVER.BASE_LR 0.0008 OUTPUT_DIR './logs_occ_reid/lr00008_b32_Process1_Model12_loss1' SOLVER.MAX_EPOCHS 25
