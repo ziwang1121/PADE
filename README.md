@@ -7,17 +7,17 @@ Paper link: Parallel Augmentation and Dual Enhancement for Occluded Person Re-id
 
 The codes are based on the **TransReID (ICCV 2021)**, the basic preparation and environment installation please refer to [TransReID](https://github.com/damo-cv/TransReID).
 
-### Structure of PADE
+## Structure of PADE
 
 ![image-20221018171750395](./fig/image-20221018171750395.png)
 
-### Results
+## Results
 
-![image-20221018171831853](/Users/littleprince/Library/Application Support/typora-user-images/image-20221018171831853.png)
+![image-20221018171831853](./fig/image-20221018171831853.png)
 
-<img src="/Users/littleprince/Library/Application Support/typora-user-images/image-20221018171840117.png" alt="image-20221018171840117" style="zoom: 50%;" />
+<img src="./fig/image-20221018171840117.png" alt="image-20221018171840117" style="zoom: 50%;" />
 
-### Training
+## Training
 
 We will evaluate the model every few epochs.
 
@@ -40,11 +40,11 @@ python train.py --config_file configs/Market/vit_transreid_stride.yml MODEL.DEVI
 python train.py --config_file configs/DukeMTMC/vit_transreid_stride.yml MODEL.DEVICE_ID "('2')"
 ```
 
-### Test
+## Test
 
 The pre-trained models will come soon...
 
-### Contact
+## Contact
 
 Please contect with Zi Wang (email address: [ziwang1121@foxmail.com](mailto:ziwang1121@foxmail.com)). Feel free to drop me an email if you have any question. 
 
