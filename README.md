@@ -9,7 +9,7 @@ The codes are based on the **TransReID (ICCV 2021)**, the basic preparation and 
 
 ### Structure of PADE
 
-![image-20221018171750395](/Users/littleprince/Library/Application Support/typora-user-images/image-20221018171750395.png)
+![image-20221018171750395](./fig/image-20221018171750395.png)
 
 ### Results
 
