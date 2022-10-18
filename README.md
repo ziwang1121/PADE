@@ -15,7 +15,6 @@ The codes are based on the **TransReID (ICCV 2021)**, the basic preparation and 
 
 ![image-20221018171831853](./fig/image-20221018171831853.png)
 
-<img src="./fig/image-20221018171840117.png" alt="image-20221018171840117" style="zoom: 50%;" />
 
 ## Training
 
