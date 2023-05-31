@@ -45,5 +45,5 @@ The pre-trained models will come soon...
 
 ## Contact
 
-Please contect with Zi Wang (email address: [ziwang1121@foxmail.com](mailto:ziwang1121@foxmail.com)). Feel free to drop me an email if you have any question. 
+Please contact with Zi Wang (email address: [ziwang1121@foxmail.com](mailto:ziwang1121@foxmail.com)). Feel free to drop me an email if you have any question. 
 
