@@ -1,11 +1,11 @@
 # PADE
 Code of paper "Parallel Augmentation and Dual Enhancement for Occluded Person Re-identification"
 
-A simple but effective method for both Occluded Person Re-identification and Normal Person Re-identification (with few occlusions). 
+A simple but effective method for both Occluded Person Re-identification and Normal Person Re-identification (with few occlusions)
 
 Paper link: Parallel Augmentation and Dual Enhancement for Occluded Person Re-identification. [PDF](https://arxiv.org/pdf/2210.05438.pdf)
 
-The codes are based on the **TransReID (ICCV 2021)**, the basic preparation and environment installation please refer to [TransReID](https://github.com/damo-cv/TransReID).
+The codes are based on the **TransReID (ICCV 2021)**, the basic preparation and environment installation, please refer to [TransReID](https://github.com/damo-cv/TransReID).
 
 ## Structure of PADE
 
@@ -47,16 +47,16 @@ The pre-trained models will come soon...
 
 We demonstrate the training and test data imbalance problem of occluded ReID by displaying samples in the training set and test set. Note: Pick one for each ID as a representative.
 
-Training data (Market 1501):
+Training data (Market 1501): only a few IDs are obscured
 
 ![image-market_train](./fig/market_train.jpg)
 
-Testing data (Partial-REID): query (left), gallery (right)
+Testing data (Partial-REID): query (left, 100% occluded), gallery (right, ~ 100% non-occluded)
 <div style="display: flex; justify-content: center; align-items: center;">
     <img src="./fig/partial_query.jpg" width="40%">
     <img src="./fig/partial_gallery.jpg" width="40%">
 
-Testing data (Occluded-REID): query (left), gallery (right)
+Testing data (Occluded-REID): query (left, 100% occluded), gallery (right, ~ 100% non-occluded)
 <div style="display: flex; justify-content: center; align-items: center;">
     <img src="./fig/OccludedREID_query.jpg" width="40%">
     <img src="./fig/OccludedREID_gallery.jpg" width="40%">
