@@ -43,6 +43,14 @@ python train.py --config_file configs/DukeMTMC/vit_transreid_stride.yml MODEL.DE
 
 The pre-trained models will come soon...
 
+## Dataset Comparison
+
+We demonstrate the training and test data imbalance problem of occluded ReID by displaying samples in the training set and test set. Note: Pick one for each ID as a representative.
+
+Training data (Market 1501):
+
+![image-20221018171750395](./fig/market_train.jpg)
+
 ## Contact
 
 Please contact with Zi Wang (email address: [ziwang1121@foxmail.com](mailto:ziwang1121@foxmail.com)). Feel free to drop me an email if you have any question. 
