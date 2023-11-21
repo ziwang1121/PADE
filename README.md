@@ -51,8 +51,11 @@ Training data (Market 1501):
 
 ![image-market_train](./fig/market_train.jpg)
 
-Testing data (Partial-REID):
-
+Testing data (Partial-REID): query (left), gallery (right)
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="./fig/partial_query.jpg" width="40%">
+    <img src="./fig/partial_gallery.jpg" width="40%">
+</div>
 <img src="./fig/partial_query.jpg" width="40%">
 <img src="./fig/partial_gallery.jpg" width="40%">
 
