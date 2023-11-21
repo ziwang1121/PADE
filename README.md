@@ -52,9 +52,8 @@ Training data (Market 1501):
 ![image-market_train](./fig/market_train.jpg)
 
 Testing data (Partial-REID):
-
-![image-partial_query](./fig/partial_query.jpg)
-![image-partial_gallery](./fig/partial_gallery.jpg)
+<img src="./fig/partial_query.jpg" width="50%">
+<img src="./fig/partial_gallery" width="50%">
 
 ## Contact
 
