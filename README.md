@@ -49,7 +49,12 @@ We demonstrate the training and test data imbalance problem of occluded ReID by 
 
 Training data (Market 1501):
 
-![image-20221018171750395](./fig/market_train.jpg)
+![image-market_train](./fig/market_train.jpg)
+
+Testing data (Partial-REID):
+
+![image-partial_query](./fig/partial_query.jpg)
+![image-partial_gallery](./fig/partial_gallery.jpg)
 
 ## Contact
 
