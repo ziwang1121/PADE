@@ -58,8 +58,8 @@ Testing data (Partial-REID): query (left), gallery (right)
 
 Testing data (Occluded-REID): query (left), gallery (right)
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="./fig/occluded_query.jpg" width="40%">
-    <img src="./fig/occluded_gallery.jpg" width="40%">
+    <img src="./fig/OccludedREID_query.jpg" width="40%">
+    <img src="./fig/OccludedREID_gallery.jpg" width="40%">
 
 
 ## Contact
