@@ -49,7 +49,7 @@ We demonstrate the training and test data imbalance problem of occluded ReID by 
 
 Training data (Market 1501): only a few IDs are obscured
 
-<img src="./fig/market_train.jpg" width="70%">
+<img src="./fig/market_train.jpg" width="50%">
 
 Testing data (Partial-REID): query (left, 100% occluded), gallery (right, ~ 100% non-occluded)
 <div style="display: flex; justify-content: center; align-items: center;">
