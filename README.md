@@ -20,7 +20,7 @@ The codes are based on the **TransReID (ICCV 2021)**, the basic preparation and 
 
 We will evaluate the model every few epochs.
 
-**Note:** Since the Partial-REID and Occluded-ReID datasets have few samples in the test set and are easy to overfitting, we adopted the "early stopping" strategy and manually selected the results for better accuracy. 
+**Note:** Since the Partial-REID and Occluded-ReID datasets have few samples in the test set and are easy to overfit, we adopted the "early stopping" strategy and manually selected the results for better accuracy. 
 
 ```python
 # Training on Occluded-Duke
@@ -55,11 +55,14 @@ Testing data (Partial-REID): query (left), gallery (right)
 <div style="display: flex; justify-content: center; align-items: center;">
     <img src="./fig/partial_query.jpg" width="40%">
     <img src="./fig/partial_gallery.jpg" width="40%">
-</div>
-<img src="./fig/partial_query.jpg" width="40%">
-<img src="./fig/partial_gallery.jpg" width="40%">
+
+Testing data (Occluded-REID): query (left), gallery (right)
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="./fig/occluded_query.jpg" width="40%">
+    <img src="./fig/occluded_gallery.jpg" width="40%">
+
 
 ## Contact
 
-Please contact with Zi Wang (email address: [ziwang1121@foxmail.com](mailto:ziwang1121@foxmail.com)). Feel free to drop me an email if you have any question. 
+Please contact Zi Wang (email address: [ziwang1121@foxmail.com](mailto:ziwang1121@foxmail.com)). Feel free to drop me an email if you have any questions.
 
