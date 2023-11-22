@@ -50,7 +50,7 @@ The pre-trained models will come soon...
 
 ## Dataset Comparison
 
-We demonstrate the training and test data imbalance problem of occluded ReID by displaying samples in the training set and test set. Note: Pick one for each ID as a representative.
+We demonstrate the training and test data imbalance problem of occluded ReID by displaying samples in the training set and test set. Note: Pick one image for each ID as a representative.
 
 Training data (Market 1501): only a few IDs are obscured
 
