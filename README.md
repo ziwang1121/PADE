@@ -15,6 +15,11 @@ The codes are based on the **TransReID (ICCV 2021)**, the basic preparation and 
 
 ![image-20221018171831853](./fig/image-20221018171831853.png)
 
+## Visualization
+
+We visualized some of the ranking list results (rank-10) on the Partial ReID dataset. The above is the result of the baseline, and below is our method.
+
+![image-ranking](./fig/ranking_partial.jpg)
 
 ## Training
 
