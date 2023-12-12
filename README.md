@@ -1,4 +1,7 @@
 # PADE
+
+## Exciting News!! This paper has been accepted by ICASSP 2024!
+
 Code of paper "Parallel Augmentation and Dual Enhancement for Occluded Person Re-identification"
 
 A simple but effective method for both Occluded Person Re-identification and Normal Person Re-identification (with few occlusions)
